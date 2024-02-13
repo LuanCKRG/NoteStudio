@@ -9,9 +9,6 @@ O NoteStudio é uma aplicação para gerenciar suas notas de forma eficiente. El
 - Visualizar e editar notas existentes.
 - Pesquisar notas por palavras-chave.
 
-## Tecnologias Utilizadas
-
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Tecnologias Utilizadas
 
