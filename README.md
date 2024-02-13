@@ -1,30 +1,28 @@
-# React + TypeScript + Vite
+# NoteStudio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O NoteStudio é uma aplicação para gerenciar suas notas de forma eficiente. Ele permite adicionar notas de texto ou áudio, que são convertidas automaticamente em texto para facilitar a organização e busca posterior.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Adicionar notas de texto.
+- Adicionar notas de áudio, que são convertidas em texto.
+- Visualizar e editar notas existentes.
+- Pesquisar notas por palavras-chave.
 
-## Expanding the ESLint configuration
+## Tecnologias Utilizadas
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Configure the top-level `parserOptions` property like this:
+## Tecnologias Utilizadas
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **React**: Biblioteca JavaScript para construir interfaces de usuário de forma eficiente e reutilizável. 🚀
+
+- **TypeScript**: Superset tipado de JavaScript que oferece um sistema de tipos estáticos opcional. 🔍
+
+- **Tailwind CSS**: Framework CSS utilitário para construir rapidamente interfaces modernas e responsivas. 🎨
+
+- **Vite**: Build tool rápida e moderna para projetos JavaScript e TypeScript. ⚡️
+
+- **SpeechRecognition**: API de reconhecimento de fala do navegador, para converter áudio em texto em tempo real. 🗣️
