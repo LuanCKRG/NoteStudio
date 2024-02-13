@@ -74,4 +74,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   > API de reconhecimento de fala do navegador, para converter áudio em texto em tempo real. 🗣️
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE.md) para obter mais informações.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais informações.
